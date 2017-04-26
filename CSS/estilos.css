@@ -1,0 +1,91 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23-sep-2015, 21:24:27
+    Author     : EMELIANENKO
+*/
+#table1
+{
+color:#110000;
+font-size:18px;
+font-family:Arial;
+}
+#contenedor{
+border:solid 2px #FF1122;
+width:700px;
+height:620px;
+margin:0 auto;
+color:#110000;
+font-size:18px;
+font-family:Arial;
+background-color:white;
+padding:10px ;
+
+}
+
+#formcliente
+{
+	width:30%;
+
+}
+
+#cabecera{
+border:solid 1px #FF1122;
+width:600px;
+color:#110000;
+font-size:20px;
+font-family:Tahoma;
+margin:5 auto;
+background-color:white;
+height:80px;
+}
+
+
+#login{
+border:solid 2px #FF1122;
+width:300px;
+color:#110000;
+font-size:20px;
+font-family:Tahoma;
+margin:5 auto;
+background-color:gray;
+height:100px;
+}
+
+#tabla1 td{
+border:solid 1px green;
+color:#110000;
+font-family:Tahoma;
+font-size:17px;
+background-color:white;
+
+}
+
+
+#Boton1{
+	color: #FF1122;
+	font-size:19px;
+	font-family: Tahoma;
+        text-decoration:none;
+}
+#Boton2{
+	color: #0000DD;
+	text-decoration:none;
+	font-size:19px;
+	font-family: Tahoma;
+}
+#Boton2 hover{
+	color: #FF1122;
+	text-decoration:none;
+	font-size:19px;
+	font-family: Tahoma;
+}
+
+#ncf
+{
+	color: #000;
+	background-color:#FFF;
+}
