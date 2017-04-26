@@ -1,2 +1,2 @@
 # Facturacion-sis
-Siustema de facturacion simple
+Sistema de facturacion simple
